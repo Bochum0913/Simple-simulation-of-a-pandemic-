@@ -1,6 +1,5 @@
 # Simple-simulation-of-a-pandemic-
-A very simple simulation of a pandemic. It should let user enter
- * 			immunity status of individuals and population size.
+A very simple simulation of a pandemic. It should let user enter immunity status of individuals and population size.
  * 			Simulation starts with one(1) patient zero and there is a chance of infection
  * 		    when persons collide.
  *          Chances are determined by:
